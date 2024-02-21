@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**fernandobrocco/fernandobrocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on improving my abilities
+- 🌱 I’m currently learning Advanced Python
+- 🎓 Computer engineering student at UTFPR (Pato Branco)
+- 👯 I’m looking to collaborate on improving society with my skills
+- 💬 Ask me about [Python, C, HTML, CSS]
+- 😄 Pronouns: him/his
+- ⚡ Fun fact: I know how to write with both hands
 
-Here are some ideas to get you started:
+<div style= "display:inline-block" >
+<img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
+          
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+          
+          
