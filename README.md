@@ -8,12 +8,6 @@
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: I know how to write with both hands
 
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/dracula/3-stats.svg)
-
-
-
-
 <div style= "display:inline-block" >
 <img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
