@@ -1,5 +1,5 @@
 ### Hello there 👋 I'm Fernando Brocco
-A I don't know developer from Paraná, Brazil
+A full-stack developer student from Paraná, Brazil
 
 - 🔭 I’m currently working on improving my abilities
 - 🌱 I’m currently learning Advanced Python
