@@ -13,13 +13,11 @@ A full-stack developer student from Paraná, Brazil
 <img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="center" width = 100 height = 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
-
-<div>
 <a href="https://github.com/fernandobrocco">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandobrocco&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandobrocco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+
 
 
           
