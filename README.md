@@ -5,7 +5,7 @@ A full-stack developer student from Paraná, Brazil
 - 🌱 I’m currently learning Node.js && React.js
 - 🎓 Computer engineering student at UTFPR (Pato Branco)
 - 👯 I’m looking to collaborate on improving society with my skills
-- 💬 Ask me about [Python, C, HTML, CSS, Javascript]
+- 💬 Ask me about Back-end[Java, Node.js, Python, MongoDB]
 - ⚡ Fun fact: I know how to write with both hands
 
 <div style= "display:inline-block" >
